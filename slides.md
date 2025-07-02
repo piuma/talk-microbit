@@ -278,4 +278,5 @@ Flashing example.py to: /run/media/piuma/MICROBIT/micropython.hex
 
 Danilo Abbasciano
 
+https://github.com/piuma/talk-microbit
 
